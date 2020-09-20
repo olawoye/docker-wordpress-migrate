@@ -24,4 +24,4 @@ If you need additional help using the code, please [email](private_bj@yahoo.com)
 - customize environment variables
 
 ## license
-This **Docker** image is released licensed under the [**GNU GPLv3**](https://opensource.org/licenses/GPL-3.0)
+This **docker-compose** code is released licensed under the [**GNU GPLv3**](https://opensource.org/licenses/GPL-3.0)
